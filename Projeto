@@ -1,0 +1,23 @@
+# Site de Consultoria Financeira
+
+## Objetivo
+Criar um site profissional e informativo para a [Nome da sua empresa] que auxilie os clientes a tomar decisões financeiras mais inteligentes.
+
+## Funcionalidades
+* Página inicial com apresentação da empresa e serviços.
+* Página sobre com informações sobre a equipe e a metodologia de trabalho.
+* Página de serviços detalhando cada serviço oferecido.
+* Formulário de contato para agendamento de consultas.
+* Blog com artigos sobre finanças pessoais e investimentos.
+
+## Cronograma
+* **Semana 1:** Design da página inicial e estrutura básica do site.
+* **Semana 2:** Desenvolvimento das páginas internas e implementação do formulário de contato.
+* **Semana 3:** Criação do blog e publicação dos primeiros artigos.
+* **Semana 4:** Testes e ajustes finais.
+
+## Tecnologias
+* HTML
+* CSS
+* JavaScript
+* [Outras tecnologias que você planeja utilizar]
